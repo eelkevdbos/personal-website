@@ -22,7 +22,7 @@ disqusShortname = "eelkevdbos"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "CoC: 75404869 | BTW: NL002192436B83 | Tel: +1 (647) 745 4373"
+    footercontent = "CoC: 75404869 | BTW: NL002192436B83 | Tel: +1 647 745 4373"
 
     hidecredits = true
     hidecopyright = true
@@ -48,7 +48,12 @@ disqusShortname = "eelkevdbos"
     icon = "fab fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/eelkevdbos/"
-
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin-in fa-2x"
+    weight = 4
+    url = "https://www.linkedin.com/in/eelkevdbos/"
+    
 # Menu links
 #[[menu.main]]
 #    name = "Blog"
